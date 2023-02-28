@@ -5,8 +5,6 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- best dev, best manager
-
 - 📫 How to reach me: youta@irain.io
 
 
